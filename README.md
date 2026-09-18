@@ -2,7 +2,7 @@
 
 <img src="./banner.png" width="100%" alt="Sayali's workspace banner"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=B983FF&center=true&vCenter=true&width=600&lines=Konnichiwa%2C+I'm+Sayali+%F0%9F%8C%B8;Level+Up%3A+BCA+%E2%9E%9C+MCA+%E2%9E%9C+Full+Stack+Dev;Currently+Grinding+XP+in+Java+%2B+Spring+Boot;Side+Quest%3A+Building+AI-Powered+Apps+%F0%9F%A4%96" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=B983FF&center=true&vCenter=true&width=600&lines=Konnichiwa%2C+I'm+Sayali+%F0%9F%8C%B8;Level+Up%3A+BCA+%E2%9E%9C+MCA+%E2%9E%9C+Full+Stack+Dev;Currently+Grinding+XP+in+C+++%2B;Side+Quest%3A+Building+AI-Powered+Apps+%F0%9F%A4%96" alt="Typing SVG" />
 
 </div>
 
