@@ -222,7 +222,8 @@ MCA (2026 – 2028)
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=100%"/>
 
 ## 🎯 2026–2027 Side Quests
-
+- [ ] Learn DSA in C++
+- [ ] Share Journey of Learning
 - [ ] Land a Software Engineer / Graduate Trainee role
 - [ ] Master Data Structures & Algorithms
 - [ ] Deploy SmartHire as a live, production-ready product
