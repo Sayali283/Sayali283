@@ -134,6 +134,19 @@ Designed wireframes, prototypes, and user-friendly interface layouts for web app
 </td>
 <td width="50%">
 
+
+### 💼 StudyGuard
+**AI-Powered Quiz Generator and Study analyzer**
+
+🤖 AI-assisted quiz generator &nbsp;·&nbsp; 📄 PDF processing &nbsp;·&nbsp; 🎯 Questions genereting &nbsp;·&nbsp; 📊 Student Streak counter
+
+`Python` `Flask` `MySQL` `SQLAlchemy` `Django` `Postgresql`
+
+🔗 [View Repo](https://github.com/Sayali283/StudyGurd)
+
+</td>
+<td width="50%">
+
 ### 🏦 Banking Information System
 **Secure Full Stack Banking App**
 
