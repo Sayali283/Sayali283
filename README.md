@@ -145,6 +145,7 @@ Designed wireframes, prototypes, and user-friendly interface layouts for web app
 🔗 [View Repo](https://github.com/Sayali283/StudyGurd)
 
 </td>
+
 <td width="50%">
 
 ### 🧿 Face Recognition System
