@@ -132,7 +132,7 @@ Designed wireframes, prototypes, and user-friendly interface layouts for web app
 🔗 [View Repo](https://github.com/Sayali283/SmartHire)
 
 </td>
-<td width="50%">
+<td width="33.33%">
 
 
 ### 💼 StudyGuard
@@ -145,7 +145,7 @@ Designed wireframes, prototypes, and user-friendly interface layouts for web app
 🔗 [View Repo](https://github.com/Sayali283/StudyGurd)
 
 </td>
-<td width="50%">
+<td width="33.33%">
 
 ### 🏦 Banking Information System
 **Secure Full Stack Banking App**
@@ -157,7 +157,7 @@ Designed wireframes, prototypes, and user-friendly interface layouts for web app
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="33.33%">
 
 ### 🧿 Face Recognition System
 **Real-Time Identity Verification**
